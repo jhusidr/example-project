@@ -1,5 +1,5 @@
 # ============================================================================
-# SIDR Package Demo Script - SIMPLE VERSION
+# SIDR Example Project
 # ============================================================================
 
 # Install the package from GitHub (if not already installed)
