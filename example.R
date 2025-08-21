@@ -3,10 +3,10 @@
 # ============================================================================
 
 # Install the package from GitHub (if not already installed)
-# remotes::install_github("jhusidr/sidr", dependencies = TRUE)
+# remotes::install_github("jhusidr/sidr", dependencies = TRUE, force=TRUE)
 
 # Load the package
-library(sidrtools)  # or library(sidr)
+library(sidr)
 
 # ============================================================================
 # 1. LOAD DATA
