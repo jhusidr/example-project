@@ -136,6 +136,6 @@ If you're developing with the SIDR package locally, this project includes an `.R
 
 This example project is provided as-is for educational purposes.
 
-## Authors
+## Author
 
-Example project created by Erik Westlund of the [Johns Hopkins Biostatistics Center](https://publichealth.jhu.edu/johns-hopkins-biostatistics-center) at the [Johns Hopkins School of Public Health](https://publichealth.jhu.edu).
+This package was developed by Erik Westlund of the [Johns Hopkins Biostatistics Center](https://publichealth.jhu.edu/johns-hopkins-biostatistics-center) at the [Johns Hopkins School of Public Health](https://publichealth.jhu.edu).
